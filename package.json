@@ -2,7 +2,7 @@
   "name": "react_templete_car",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abhishekgowdakm.github.io/react_templete_video_homepage.io",
+  "homepage": "https://abhishekgowdakm.github.io/react_templete_video_homepage.io/home",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
