@@ -1,0 +1,70 @@
+#VideoBackground{
+       height: auto;
+       width: 100%;
+       position: absolute;
+       z-index: -1;
+}
+
+.Logo{
+       color: white;
+      padding-top: 8%;
+      padding-bottom: 8%; 
+   }
+   
+   .Logo h1{
+          font-size: 10rem;
+          text-align: center;
+          margin-bottom: 0;
+          
+   }
+   .Logo p{
+          font-size: 3rem;
+          text-align: center;
+          margin-top: 0;
+          width: 125%;
+          
+   }
+   .Nav-Select{
+         margin: 0;
+         position: absolute;
+         top: 2%;
+         left:5%;
+         color: white;
+         height: 25%;
+         width:25%;
+         background-size: cover;
+   }
+ 
+
+@media screen and (max-width: 400px){
+       .Logo{
+             color: white;
+             padding-top: 16%;
+             padding-bottom: 16%; 
+          }
+          
+          .Logo h1{
+                 font-size: 1rem;
+                 text-align: center;
+                 margin-bottom: 0;
+                 
+          }
+          .Logo p{
+                 font-size: 0.5rem;
+                 text-align: center;
+                 margin-top: 0;
+                 width: 105%;     
+          }
+          .Nav-Select{
+              margin: 0;
+              position: absolute;
+              top: 2%;
+              left:5%;
+              color: white;
+              font-size: 0.5rem;
+        }
+    
+}
+
+
+
