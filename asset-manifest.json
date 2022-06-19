@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_templete_video_homepage.io/static/css/main.2b751a8e.css",
+    "main.js": "/react_templete_video_homepage.io/static/js/main.df27decb.js",
+    "static/js/787.8a6f8244.chunk.js": "/react_templete_video_homepage.io/static/js/787.8a6f8244.chunk.js",
+    "static/media/Background.mp4": "/react_templete_video_homepage.io/static/media/Background.07469cd88317e1cadfaa.mp4",
+    "static/media/adventure.png": "/react_templete_video_homepage.io/static/media/adventure.c75ad62c16a3dcbcaac9.png",
+    "index.html": "/react_templete_video_homepage.io/index.html",
+    "main.2b751a8e.css.map": "/react_templete_video_homepage.io/static/css/main.2b751a8e.css.map",
+    "main.df27decb.js.map": "/react_templete_video_homepage.io/static/js/main.df27decb.js.map",
+    "787.8a6f8244.chunk.js.map": "/react_templete_video_homepage.io/static/js/787.8a6f8244.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b751a8e.css",
+    "static/js/main.df27decb.js"
+  ]
+}
